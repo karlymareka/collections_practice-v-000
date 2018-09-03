@@ -23,3 +23,5 @@ end
 def kesha_maker(array)
   array.each do |element| 
     element[3] = "$"
+  end 
+  return array 
