@@ -9,5 +9,6 @@ end
 
 sort_array_char_count(array)
   result = array.sort {|left, right| left.length <=> right.length}
+end 
   return result 
 end 
