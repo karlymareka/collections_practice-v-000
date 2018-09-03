@@ -8,7 +8,7 @@ def sort_array_desc(array)
 end
 
 sort_array_char_count(array)
-  result = array.sort {|left, right| left.length <=> right.length}
+  result = array.sort_by 
   end 
   return result 
 end 
