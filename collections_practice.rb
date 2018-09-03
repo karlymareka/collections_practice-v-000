@@ -28,5 +28,8 @@ def kesha_maker(array)
 end
 
 def find_a(array)
+  array.each do |word|
+    if word[0] == "a"
+      new_array << word 
   new_array = 
 end 
