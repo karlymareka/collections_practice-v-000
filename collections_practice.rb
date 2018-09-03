@@ -47,5 +47,6 @@ end
 
 def add_s(array)
   second_element = array.delete_at(1)
-  
+  array.each do |word|
+    
 end 
