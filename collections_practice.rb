@@ -9,5 +9,5 @@ end
 
 sort_array_char_count(array)
   array.sort! {|left, right| left.length <=> right.length}
-end 
+
 end 
