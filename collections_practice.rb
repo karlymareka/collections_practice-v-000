@@ -32,5 +32,5 @@ def find_a(array)
     if word[0] == "a"
       new_array << word
   end 
-  new_array = 
+  return new_array 
 end 
