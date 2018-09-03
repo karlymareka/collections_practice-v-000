@@ -10,4 +10,3 @@ end
 sort_array_char_count(array)
   result = array.sort_by {|x| x.length}
   return result 
-end 
