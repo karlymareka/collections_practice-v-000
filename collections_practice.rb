@@ -46,5 +46,5 @@ def sum_array(array)
 end 
 
 def add_s(array)
-  second_element = 
+  second_element = array.delete_at
 end 
